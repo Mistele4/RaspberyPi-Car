@@ -1,0 +1,10 @@
+https://learn.sparkfun.com/tutorials/sparkfun-auto-phat-hookup-guide/hardware-overview
+
+https://qwiic-9dof-imu-icm20948-py.readthedocs.io/en/latest/?
+
+https://learn.sparkfun.com/tutorials/sparkfun-auto-phat-hookup-guide/hardware-overview
+
+https://base.movella.com/s/article/Understanding-Sensor-Bias-offset?language=en_US
+
+https://numpy.org/devdocs//reference/generated/numpy.array.html
+

@@ -42,7 +42,7 @@ from __future__ import print_function
 import qwiic_icm20948
 import time
 import sys
-from IMUDataClass import IMUDataReadings
+from IMU_9DOF_DataClass import IMUDataReadings
 
 # This is the demo file from sparkfun that ive taken and turned into my basic test file
 # there isnt really anything new here, i just wanted to keep my calls to the data class for the IMU

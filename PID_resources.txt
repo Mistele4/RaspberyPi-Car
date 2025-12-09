@@ -1,0 +1,6 @@
+Raspberry Pi Pico PID Controller Beginner-Intermediate Resources:
+
+https://www.youtube.com/watch?v=awh3P6i7LxU
+https://micropython-simple-pid.readthedocs.io
+https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico
+https://www.instructables.com/Raspberry-Pi-Pico-W-Driven-Drone/
